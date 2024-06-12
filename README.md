@@ -38,7 +38,7 @@ As a data specialist working for Salifort Motors, you have received the results 
 - **Identify Key Variables:**
   - Determine which variables are most likely to impact employee turnover based on initial observations and domain knowledge.
 
-## 4. Data Cleaning and Preparation
+## 4. Data Cleaning and Preparation (Shown in Jupyter Notebook)
 
 - **Handle Missing Data:**
   - Identify and address any missing values. Common strategies include imputation, removal, or using algorithms that can handle missing data.
